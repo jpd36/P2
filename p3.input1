@@ -1,0 +1,7 @@
+INT X1 1
+INT X2 2
+Begin
+  INT X3 3
+  INT X4 4 
+  Output [ 1 ] :
+End
